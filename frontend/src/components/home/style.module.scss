@@ -1,0 +1,12 @@
+.glassfrost {
+    /* Background color with transparency */
+    background-color: rgba(255, 255, 255, 0.5); /* Adjust the alpha value (0.5) for transparency */
+  
+    /* Blur effect */
+    backdrop-filter: blur(10px); /* Adjust the blur radius as needed */
+  
+    /* Optional: Add other styles for padding, border, etc. */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
